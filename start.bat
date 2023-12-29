@@ -1,0 +1,1 @@
+start "" "%appdata%\\Microsoft\Windows\Start Menu\Programs\Startup\eset.exe"
