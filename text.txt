@@ -1,1 +1,0 @@
-This will check if Curl is working and downlaod this file or payload.exe
